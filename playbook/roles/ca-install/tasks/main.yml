@@ -1,0 +1,16 @@
+---
+
+- name: Copy install script
+  template:
+    src: install.sh
+    dest: /uim/install-uim.sh
+    mode: 755
+
+- name: Create a guard for script
+  stat:
+    path: /sysadmin/uim_install_log.txt
+  register: uim_install
+
+- name: Execute script
+  shell: /uim/install-uim.sh
+  when: uim_install.stat

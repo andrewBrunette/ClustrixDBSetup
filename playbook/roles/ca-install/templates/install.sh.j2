@@ -1,0 +1,30 @@
+#!/bin/bash
+
+DATABASE_ADMIN_USERNAME="${1}"
+DATABASE_ADMIN_PASSWORD="${2}"
+UIM_ADMINISTRATOR_USER_NAME="${3}"
+UIM_ADMINISTRATOR_USER_PASSWORD="${4}"
+
+cd /uim
+
+PW='{{ eco_passwd }}'
+mount -t cifs -o domain='{{ domain }}',username='{{ username }}',password=`echo $PW` //{{ filesystem_path }} /mnt
+
+cp /mnt/CA/UIM/uim.zip .
+umount /mnt
+unset PW
+
+unzip uim.zip
+
+perl -p -i -e "s/DB_ADMIN_USER=root/DB_ADMIN_USER=${1}/ig" NMS_installer.properties
+perl -p -i -e "s/DB_ADMIN_PASSWORD=nimsoft/DB_ADMIN_PASSWORD=${2}/ig" NMS_installer.properties
+perl -p -i -e "s/NIM_USER=administrator/NIM_USER=${3}/ig" NMS_installer.properties
+perl -p -i -e "s/NMS_PASSWORD=nimsoft/NMS_PASSWORD=${4}/ig" NMS_installer.properties
+perl -p -i -e "s/NIMBUS_USERNAME=administrator/NIMBUS_USERNAME_USER=${3}/ig" UMP_installer.properties
+perl -p -i -e "s/NIMBUS_PASSWORD=nimsoft/NIMBUS_PASSWORD=${4}/ig" UMP_installer.properties
+perl -p -i -e "s/nimsoft/${2}/ig" mysql-init.sql
+
+
+./provision.sh $2>>/sysadmin/uim_install_log.txt
+echo "Done">>/sysadmin/uim_install_log.txt
+exit 0

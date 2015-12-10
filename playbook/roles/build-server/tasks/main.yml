@@ -1,0 +1,41 @@
+---
+
+- name: CLC | Generate Server Admin Password
+  command: openssl rand -base64 15
+  register: serverpass
+  changed_when: False
+
+- name: CLC | Create "{{ group_name }}" Group
+  clc_group:
+    name: "{{ group_name }}"
+    location: "{{ datacenter }}"
+    state: present
+
+- name: CLC | Build UIM Server if Needed
+  clc_server:
+    name: "{{ server_name }}"
+    location: "{{ datacenter }}"
+    template: "{{ os_template }}"
+    password: "{{ serverpass.stdout }}"
+    exact_count: "{{ server_count }}"
+    group: "{{ group_name }}"
+    count_group: "{{ group_name }}"
+    network_id: "{{ network_id }}"
+    cpu: "{{ cpu }}"
+    memory: "{{ memory }}"
+    type: "{{ type }}"
+    storage_type: "{{ storage_type }}"
+    additional_disks: "{{ disk }}"
+  register: uim
+
+- name: Add New Servers to an in-memory Group
+  add_host:
+    name={{ item.name }}
+    ansible_ssh_host={{ item.ipaddress }}
+    ansible_ssh_user=root
+    ansible_ssh_pass={{ serverpass.stdout }}
+    groupname=UIM
+  with_items: uim.servers
+
+- name: Sleep 30 seconds
+  command: sleep 30

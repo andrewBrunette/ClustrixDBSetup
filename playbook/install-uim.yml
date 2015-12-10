@@ -1,0 +1,8 @@
+---
+
+- hosts: UIM 
+  gather_facts: true
+  roles:
+    - ca-install
+  tags:
+    - ca-install
