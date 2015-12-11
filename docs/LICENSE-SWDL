@@ -1,0 +1,374 @@
+CLUSTRIX
+
+By clicking on this button you acknowledge that either: (1) you have already
+obtained a license from Clustrix, or a Clustrix partner, for your use of the
+software and that your use is governed by the Clustrix Subscription License
+Agreement plus the applicable ordering document(s) executed with Clustrix or a
+Clustrix partner (such license agreement and associated ordering document
+collectively the "License Agreement"); or (2) if you have not already obtained
+a license from Clustrix or a Clustrix partner for your use of the software, you
+accept that the Clustrix Terms of Use - Subscription License Agreement below
+governs your use of the software. 
+
+By selecting the "I accept" checkbox (in the Clustrix startup wizard) or typing
+"Yes" (in the command-line installer) you indicate your acceptance of these 
+terms and your agreement, as an authorized representative of your company or 
+organization (if being acquired for use by an entity) or as an individual, to 
+comply with the license terms that apply to the software that you wish to 
+download and access. If you are not willing to be bound by these terms, then do
+not select the "I accept" checkbox and instead close the Clustrix startup 
+wizard, or type "Q" and close the command-line installer.
+
+Terms of Use - Subscription License Agreement
+
+1. Definitions. 
+1.1. "Core(s)" means a physical core that is a processing unit within a 
+processor. When running on a virtual machine, Core means a virtual core. 
+1.2. "Enterprise Edition" means the version of the Software designated as
+the Enterprise Edition of the Software on this Order. Form. 
+1.3. "Enterprise Period" means the term designated in this Order Form for any 
+Enterprise Edition Software being ordered under this Order Form. 
+1.4.  "Evaluation Edition" means the version of the Software designated as the 
+Evaluation Edition of the Software on this Order Form. 
+1.5.  "Evaluation Period" means the period commencing on the Effective Date and
+ending on the date that is forty-five (45) days thereafter or as extended by 
+Clustrix in writing. 
+1.6. "Professional Edition" means the version of the Software designated as the
+Professional Edition of the Software on this Order Form. "Professional Period" 
+means the term designated in this Order Form for any Professional Edition 
+Software being ordered under this Order Form. 
+1.7. "Product" means the Software and all associated documentation (if any) 
+("Documentation") 
+1.8. "Software" means Clustrix’s proprietary software application provided 
+hereunder.
+
+2. License Grant. Subject to the terms and conditions of this Agreement,
+Clustrix grants You a non-exclusive, non-transferable, limited license (without
+the right to sublicense), solely for the applicable version of the Product that
+You have licensed and solely for the applicable Evaluation Period, Professional
+Period, or Enterprise Period, to (i) install the Software on your internal or
+your third party service providers’ Core(s) on the condition that only You have
+access to the Software on such third party service providers’ Core(s); (ii) for
+the Evaluation Edition, use the Product solely for internal evaluation purposes
+as necessary to determine the feasibility of using the Software and for the
+Professional Edition or Enterprise Edition, to use the Product solely for
+internal business use; (iii) use all associated Documentation in connection
+with such authorized use of the Software; and (iv) make one copy of the
+Documentation solely for archival and backup purposes. Notwithstanding anything
+to the contrary in this Agreement: (i) for the Professional Edition, You may
+only install and use the Software on the number of Core(s) for which You have
+paid Clustrix the applicable fees, up to a maximum of 48 Cores; and (ii) for
+the Enterprise Edition, You may install and use the Software on an unlimited
+amount of Cores. The Software may be accessed and downloaded only from
+Clustrix’s website using a license key which Clustrix will deliver to you.
+
+3. Open Source Software. The Software may contain open source software
+components ("Open Source Components"). Such Open Source Components are not
+licensed under this Agreement, but are instead licensed under the terms of the
+applicable open source license. Your use of each Open Source Component is
+subject to the terms of each applicable license which are available to You on
+request from Clustrix and, notwithstanding any provision herein to the
+contrary, You are solely responsible for its compliance with such licenses.
+
+4. Restrictions. You shall absolutely not, and shall absolutely not permit any
+third party to: (i) reverse engineer, reverse assemble, or otherwise attempt to
+discover the source code of all or any portion of the Software; (ii) reproduce,
+modify, translate or create derivative works of all or any portion of the
+Product; (iii) assist any third party to gain access, license, sublicense,
+resell distribute, assign, transfer or use the Product; (iv) remove or destroy
+any proprietary notices contained on or in the Product or any copies thereof;
+or (v) publish or disclose the results of any benchmarking of the Products, or
+use such results for Your own competing software development activities. You
+acknowledge and agree that the Software includes functionality that reports the
+number of Cores on which the Software is being used and permits Clustrix the
+ability to monitor certain usage of the Software which is fundamental to the
+business of Clustrix ("Critical Control Software").
+
+5. Limited Warranty and Disclaimer of Warranty.
+
+5.1. Evaluation Edition. During the Evaluation Period, Your rights to use the
+Product is time limited and You agree that the Products are meant for
+evaluation purposes only. During the Evaluation Period, the Product should not
+be used in a commercial operating environment or with important data. Before
+using the Product, You should back up all of Your data and regularly back up
+data while using the Product. YOU AGREE THAT CLUSTRIX AND ITS LICENSORS PROVIDE
+THE EVALUATION EDITION ON AN "AS IS" AND "WHERE-AS" BASIS DURING THE EVALUATION
+PERIOD.
+
+5.2. Professional Edition and Enterprise Edition. Solely for the Professional
+Edition and the Enterprise Edition, Clustrix represents and warrants to You
+only that the Software when used for its intended purpose and in accordance
+with the Documentation, will materially conform to Clustrix’s published
+specifications for a period of ninety (90) calendar days from the Effective
+Date. Your sole and exclusive remedy, and Clustrix’s sole and exclusive
+liability for any breach of this warranty will be, at Clustrix’s sole
+discretion, to either fix the Software to remedy the defect or refund the
+applicable Software license fees paid by You for the Software, in each case on
+condition that You promptly notify Clustrix in writing of any alleged breach of
+this warranty within such ninety (90) calendar day period. This warranty is
+null and void to the extent the Software is used for an unintended purpose, is
+used other than in accordance with its published documentation or
+specifications, or is otherwise used in breach of this Agreement.
+
+5.3.  Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH ABOVE, NEITHER
+CLUSTRIX NOR ITS LICENSORS MAKE ANY WARRANTIES WITH RESPECT TO THE PERFORMANCE
+OF THE PRODUCT, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, AND CLUSTRIX
+AND ITS LICENSORS EXPRESSLY DISCLAIM ALL OTHER WARRANTIES, INCLUDING BUT NOT
+LIMITED TO THE IMPLIED WARRANTIES OF NON-INFRINGEMENT OF THIRD PARTY RIGHTS,
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+6. Intellectual Property Rights and Feedback. All rights, title and interest in
+and to the Products and any improvements, updates, upgrades, modifications,
+changes, or additions thereto, shall at all times remain the property of
+Clustrix or its licensors. Nothing herein shall give or be deemed to give You
+any right, title or interest in or to the same except for the license to use as
+expressly provided in this Agreement. Clustrix reserves all rights not
+expressly granted herein. Any materials, information, ideas, concepts, feedback
+and know-how provided by You to Clustrix concerning the Product and any
+information reported automatically through the Product to Clustrix ("Feedback")
+will be the property of Clustrix. You agree to assign, and hereby assign, all
+right, title and interest worldwide in the Feedback, and the related
+intellectual property rights, to Clustrix and agree to assist Clustrix, at
+Clustrix’s expense, in perfecting and enforcing such rights.
+
+7. Technical Support. You are entitled to receive technical support in
+accordance with and subject to the terms and conditions set forth in the
+Clustrix Support Policy that can be found at
+https://support.clustrix.com/("Technical Support Terms"). Clustrix may add to,
+change or remove any part, term or condition of the Technical Support Terms at
+any time without prior notice to You; provided however, that any such changes
+which occur during the then-current Initial or Renewal Term which materially
+diminish the benefit of the technical support, will not take effect for You
+until the start of the next Renewal Term.
+
+8. Fees & Payment Terms.
+
+8.1. Fees. The license fees payable by You for the Initial Term will be as set
+forth in the applicable Quote.  All terms herein, including without limitation,
+the pricing terms, are confidential, and You agree not to disclose them to any
+third party.  For the Professional Edition You will be required to pay overage
+fees equal to [120%] of the then current list price for usage in excess of the
+number of Cores specified on the applicable Order Form.  Such fees will be
+billed at the end of each month, quarter, or year at the discretion of
+Clustrix.  All fees are payable in the currency of the United States of
+America.
+
+8.2.  Payment Terms. All fees are due as per the payment terms specified on the
+Quote and shall be deemed non-refundable upon payment.  You are responsible for
+paying a monthly finance charge on late payments at the rate of 1.5% per month
+or the highest amount permitted by law, whichever is lower, until paid in full.
+You will reimburse any costs or expenses (including, but not limited to,
+reasonable attorney fees) incurred by Clustrix to collect any amount that is
+not paid when due.  Amounts due from You under this agreement may not be
+withheld or offset by You against amounts due to You for any reason.  All fees
+are payable in the currency of the United States of America. All fees
+specifically exclude (and You are responsible for) any and all applicable
+sales, use and other taxes, other than taxes based on Clustrix's income.
+
+8.3. Changes to Fees. Clustrix may increase its annual subscription fees to
+take effect for the upcoming Renewal Period, upon notice given at least 90
+prior to the start of the upcoming next Renewal Period, which notice may be
+provided by e-mail to Your email address.
+
+8.4. Audit. During the term of this Agreement and for one (1) year thereafter,
+Clustrix or its designated agent may inspect Your facilities and records to
+verify Your compliance with the terms of this Agreement. Any such inspection
+will take place only during Your normal business hours and upon not less than
+ten (10) business days’ prior written notice from Clustrix. You shall
+reasonably cooperate with such audit and shall make such personnel, facilities
+and records available as Clustrix may reasonably request. Clustrix will give
+You written notice of any non-compliance, including any use of the Software or
+services beyond that authorized under this Agreement and without limiting
+Clustrix’s remedies arising from such unauthorized use, You shall promptly: (i)
+cease such unauthorized use and (ii) pay Clustrix any additional fees due to
+the extent Your use of the Software has exceeded the scope purchased by You. If
+any underpayment exceeds 5% then You will also pay the costs reasonably
+incurred by Clustrix in connection with the inspection.
+
+9. Limitation of Liability; Allocation of Risk.
+
+9.1. Limitation of Liability. NEITHER CLUSTRIX NOR ITS LICENSORS SHALL BE
+LIABLE FOR SPECIAL, INCIDENTAL, CONSEQUENTIAL OR INDIRECT DAMAGES, RELATED TO
+THIS AGREEMENT, INCLUDING WITHOUT LIMITATION, LOST PROFITS, LOST SAVINGS, OR
+DAMAGES ARISING FROM LOSS OF USE, LOSS OF CONTENT OR DATA OR ANY ACTUAL OR
+ANTICIPATED DAMAGES, REGARDLESS OF THE LEGAL THEORY ON WHICH SUCH DAMAGES MAY
+BE BASED, AND EVEN IF CLUSTRIX OR ITS LICENSORS HAVE BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES. FOR THE EVALUATION PERIOD, IN NO EVENT SHALL
+CLUSTRIX’S DIRECT DAMAGES EXCEED ONE HUNDRED DOLLARS (US $100.00). FOR THE
+PROFESSIONAL PERIOD AND/OR THE ENTERPRISE PERIOD, IN NO EVENT SHALL CLUSTRIX’S
+DIRECT DAMAGES EXCEED THE FEES PAID AND PAYABLE IN THE TWELVE (12) MONTHS
+IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE CLUSTRIX PARTIES’ LIABILITY.
+ADDITIONALLY, IN NO EVENT SHALL CLUSTRIX'S LICENSORS BE LIABLE FOR ANY DAMAGES
+OF ANY KIND.
+
+9.2. Allocation of Risk. You and Clustrix agree that the foregoing Section 9.1
+on limitation of liability and the Section 5.3 above on warranty disclaimer
+fairly allocate the risks in the Agreement between the parties. You and
+Clustrix further agree that this allocation is an essential element of the
+basis of the bargain between the parties and that the limitations specified in
+this Section 9 shall apply notwithstanding any failure of the essential purpose
+of this Agreement or any limited remedy hereunder.
+
+10. Indemnification. Solely with respect to any use of the Professional Edition
+during any Professional Period or the Enterprise Edition during any Enterprise
+Period, Clustrix shall indemnify, defend and hold You and Your officers,
+directors, employees, shareholders, contractors and agents harmless from any
+claim, loss, damage, cost, expense or liability for direct infringement of any
+United States patent or copyright by the Software, provided that the Software
+has not been modified or combined with any materials not provided by Clustrix,
+and provided that You (a) promptly give written notice of the claim to
+Clustrix; (b) give Clustrix sole control of the defense and settlement of the
+claim (provided that Clustrix may not settle or defend any claim without first
+obtaining Your prior written consent if the settlement includes any admission
+of liability by You); and (c) provide to Clustrix, at Clustrix’s cost, all
+reasonable assistance. Should the use of the Software be enjoined, Clustrix
+shall, or in the event that the Clustrix desires to minimize its liabilities
+hereunder, Clustrix may do one of the following, at its sole option and
+expense, to: (i) obtain through negotiation the right of You to continue using
+the infringing Software; (ii) rework the Software so as to make it
+non-infringing while preserving its original functionality; (iii) replace the
+Software with functionally equivalent software; or (iv) refund to You unused
+prepaid fees paid for the infringing Software hereunder. THIS SECTION STATES
+THE ENTIRE LIABILITY OF CLUSTRIX WITH RESPECT TO INFRINGEMENT OF ANY
+INTELLECTUAL PROPERTY RIGHTS BY THE SOFTWARE PROVIDED UNDER THIS AGREEMENT.
+
+11. Confidentiality.
+
+11.1.  Definition of Confidential Information. "Confidential Information" of a
+party shall mean (i) any technical and non-technical information related to
+such party’s business and current, future and proposed products and Software,
+including for example and without limitation, information concerning research,
+development, design details and specifications, financial information,
+procurement requirements, engineering and manufacturing information, customer
+lists, business forecasts, sales information, marketing plans and business
+plans, logs and other debugging artifacts, benchmark or comparison tests, bug
+tracking and quality measurements, information exchanged in the course of
+providing or receiving support, and encrypted or obfuscated information,
+whether or not decrypted; and (ii) any information that may be made known to
+the receiving party and which the disclosing party has received from others
+that the disclosing party is obligated to treat as confidential or proprietary,
+in each case, which information shall be marked as confidential. The Products
+are the Confidential Information of Clustrix and You agree that You will not
+disclose any information about the Products to any third party without
+Clustrix’s express written consent.
+
+11.2. Nondisclosure of Confidential Information and Confidentiality
+Obligations. Neither party will use, disseminate or in any way disclose any
+Confidential Information of the other party to any person, firm or business.
+Each party shall treat all Confidential Information with the same degree of
+care as such party accords to its own confidential information but not less
+than reasonable care. Each party shall disclose Confidential Information only
+to its employees or representatives who have a need to know such information.
+Each party certifies that each such employee or representative will have
+agreed, either as a condition of employment or in order to obtain the
+Confidential Information, to be bound by terms and conditions substantially
+similar to those terms and conditions applicable to such party under this
+Agreement. Each party shall immediately give notice to the other party of any
+unauthorized use or disclosure of the other party’s Confidential Information.
+Each party shall assist the other party in remedying any such unauthorized use
+or disclosure of the other party’s Confidential Information.
+
+11.3. Exceptions. Confidential Information shall not include any information
+that (i) was in the public domain at or subsequent to the time such information
+was communicated to the receiving party by the disclosing party through no
+fault of the receiving party; (ii) was rightfully in the receiving party’s
+possession free of any obligation of confidence at or subsequent to the time
+such information was communicated to the receiving party by the disclosing
+party; or (iii) is or was developed by the receiving party’s employees,
+contractors or agents independently of and without reference to any
+Confidential Information of the disclosing party. A disclosure of any
+Confidential Information by the receiving party (a) in response to a valid
+order by a court or other governmental body or (b) as otherwise required by law
+shall not be considered to be a breach of this Agreement or a waiver of
+confidentiality for other purposes; provided, however, that the receiving party
+shall provide prompt prior written notice thereof to the disclosing party to
+enable the disclosing party to seek a protective order or otherwise prevent
+such disclosure.
+
+11.4. Ownership of Materials. All Confidential Information shall be the
+property of the disclosing party and no license or other rights to Confidential
+Information is granted or implied hereby. Within five (5) days after any
+request by the disclosing party, the receiving party shall destroy or deliver
+to the disclosing party, at the disclosing party’s option, all Confidential
+Information of the disclosing party in the possession of the receiving party.
+The receiving party will provide the disclosing party, upon request, a written
+certification of such party’s compliance with the obligations under this
+Section.
+
+12.  Term and Termination.
+
+12.1. Term. The initial term of this Agreement (the "Initial Term") is for the
+period listed and commencing on the dates specified on the applicable Quote
+(the "Effective Date"). Upon the expiration of the Evaluation Period, if any,
+this Agreement terminates and You must cease use of the Product unless You and
+Clustrix have entered into an order for your use of the Professional Edition or
+the Enterprise Edition. If You convert from the Evaluation Edition to the
+Professional Edition or Enterprise Edition, Clustrix may provide You with a new
+license key or may require You to re-download the Software, as Clustrix
+determines in its sole discretion.
+
+12.2. Termination. This Agreement will terminate immediately upon written
+notice from Clustrix if You fail to comply with any provision of this
+Agreement. Except for Section 2 ("License Grant"), all Sections of this
+Agreement shall survive termination for a period of three (3) years from the
+date hereof. On termination of this Agreement, You must cease using the
+Software and Clustrix may destroy all of Your data that You have submitted
+through the Software. If You have exceeded Your authorized license usage
+(including, without limitation, by installation of the Software on more Cores
+than You are authorized), the license key for the Software may disable the
+Software automatically or render the Software read-only.
+
+13. Government End Users. The Product provided under this Agreement is
+commercial computer software programs developed solely at private expense. As
+defined in U.S. Federal Acquisition Regulations (FAR) section 2.101 and U.S.
+Defense Federal Acquisition Regulations (DFAR) sections 252.227-7014(a)(1) and
+252.227-7014(a)(5) (or otherwise as applicable to You), the Product licensed in
+this Agreement is deemed to be "commercial items" and "commercial computer
+software" and "commercial computer software documentation." Consistent with FAR
+section 12.212 and DFAR section 227.7202, (or such other similar provisions as
+may be applicable to You), any use, modification, reproduction, release,
+performance, display, or disclosure of such commercial Product or commercial
+Product documentation by the U.S. government (or any agency or contractor
+thereof) shall be governed solely by the terms of this Agreement and shall be
+prohibited except to the extent expressly permitted by the terms of this
+Agreement.
+
+14. No Export. You agree and certify that neither the Product nor any other
+technical data received from Clustrix, nor the direct product thereof, will be
+exported outside the United States or re-exported except as authorized and as
+permitted by the laws and regulations of the United States and/or the laws and
+regulations of the jurisdiction, (if other than the United States) in which You
+rightfully obtained the Product.
+
+15.  General Provisions. All notices permitted or required under this Agreement
+shall be in writing and shall be delivered by personal delivery, or by
+certified or registered mail, return receipt requested, and shall be deemed
+given upon personal delivery, five (5) calendar days after deposit in the mail,
+or upon acknowledgment of receipt of electronic transmission. This Agreement
+shall be governed by the laws of the State of California, U.S.A. without regard
+to conflict of laws principles. The parties agree that the United Nations
+Convention on Contracts for the International Sale of Goods is specifically
+excluded from application to this Agreement. If any provision hereof shall be
+held illegal, invalid or unenforceable, in whole or in part, such provision
+shall be modified to the minimum extent necessary to make it legal, valid and
+enforceable, and the remaining provisions of this Agreement shall not be
+affected thereby. The failure of either party to enforce any right or provision
+of this Agreement shall not constitute a waiver of such right or provision.
+Nothing contained herein shall be construed as creating an agency, partnership,
+or other form of joint enterprise between the parties. This Agreement may not
+be assigned, sublicensed or otherwise transferred by either party without the
+other party's prior written consent except that either party may assign this
+Agreement without the other party's consent to any entity that acquires all or
+substantially all of such party’s business or assets, whether by merger, sale
+of assets, or otherwise, provided that such entity assumes and agrees in
+writing to be bound by all of such party’s obligations under this Agreement. In
+the event any judicial proceeding, lawsuit or claim is brought by one party
+against the other party in connection with this Agreement, the prevailing party
+shall be entitled to recover its reasonable fees and costs, including but not
+limited to attorneys’ fees, expert witness fees, consultant fees, and related
+costs and expenses. This Agreement constitutes the parties’ entire
+understanding regarding the Product, and supersedes any and all other prior or
+contemporaneous agreements, whether written or oral.
+
+
+

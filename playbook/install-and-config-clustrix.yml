@@ -1,0 +1,5 @@
+---
+
+- include: build-server.yml
+- include: install-clustrix-node.yml
+- include: configure-cluster.yml

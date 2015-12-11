@@ -1,0 +1,12 @@
+Thank you for downloading ClustrixDB. To install, please navigate to the folder
+containing the installation files, then run the following at the command
+prompt:
+
+./clxnode_install.py
+
+then follow the instructions provided by the installer. More detailed
+instructions can be found at
+http://docs.clustrix.com/display/CLXDOC/Getting+Started+on+ClustrixDB+Software
+
+If you run into issues or have questions please visit ClustrixDB Community
+Support at https://support.clustrix.com/

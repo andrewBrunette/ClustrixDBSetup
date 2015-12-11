@@ -2,16 +2,16 @@
 # defaults file for build-server
 
 public_key: "{{ lookup('file', './keys/ssh-rsa-key.pub') }}"
-group_name: Ecosystem Team
-datacenter: UC1
-server_name: -UIM-
-server_count: 1
-os_template: rhel-6-64
+group_name: {{ group_name }}
+datacenter: {{ datacenter }}
+server_name: {{ server_name }}
+server_count: {{ server_count }}
+os_template: {{ os_template }}
 storage_type: standard
-cpu: 8
-memory: 8
+cpu: {{ cpu-count }}
+memory: {{ memory_gb }}
 type: standard
 disk:
-  - sizeGB: 350
+  - sizeGB: {{ disk_size }}
     type: partitioned
-    path: /uim
+    path: {{ disk_mount_point }}

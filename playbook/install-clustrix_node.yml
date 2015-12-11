@@ -1,0 +1,8 @@
+---
+
+- hosts: CLSX
+  gather_facts: true
+  roles:
+    - clustrix-node-install
+  tags:
+    - clustrix-node-install
